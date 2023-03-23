@@ -1,0 +1,46 @@
+body {
+  background-color: #e8ecf1;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+textarea {
+  resize: none;
+}
+
+.section {
+  display: table;
+
+  margin-left: auto;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
